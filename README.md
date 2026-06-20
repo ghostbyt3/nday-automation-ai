@@ -14,6 +14,8 @@ Reports are generated for each Patch Tuesday and cover patched vs. vulnerable fu
 | February 2026 | [2026-Feb](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-Feb) |
 | March 2026 | [2026-Mar](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-Mar) |
 | April 2026 | [2026-Apr](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-Apr) |
+| May 2026 | [2026-May](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-May) |
+| June 2026 | [2026-Jun](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-Jun) |
 
 For a full walkthrough of how the pipeline works, see the blog post: [N-Day Research with AI: Using Ollama and n8n](https://ghostbyt3.github.io/blog/nday-research-ai)
 

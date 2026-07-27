@@ -6,7 +6,7 @@ Reports are generated for each Patch Tuesday and cover patched vs. vulnerable fu
 
 ## Reports
 
-| Month | Link | Model |
+| Month | Link | Model Used |
 |-------|------|------|
 | December 2025 | [2025-Dec](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2025-Dec) | [qwen3](https://ollama.com/library/qwen3) | 
 | November 2025 | [2025-Nov](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2025-Nov) | [qwen3](https://ollama.com/library/qwen3) | 

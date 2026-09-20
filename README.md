@@ -18,9 +18,12 @@ Reports are generated for each Patch Tuesday and cover patched vs. vulnerable fu
 | June 2026 | [2026-Jun](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-Jun) | [glm-4.7-flash](https://ollama.com/library/glm-4.7-flash) |
 | July 2026 | [2026-Jul](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-Jul) | [sonnet5](https://www.anthropic.com/news/claude-sonnet-5) |
 | August 2026 | [2026-Aug](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-Aug) | [sonnet5](https://www.anthropic.com/news/claude-sonnet-5) |
+| September 2026 | [2026-Sep](https://github.com/ghostbyt3/nday-automation-ai/tree/main/nday_research_reports/2026-Sep) | [fable5.1](https://platform.claude.com/docs/en/models/fable-5-1/overview) |
 
 
 For a full walkthrough of how the pipeline works, see the blog post: [N-Day Research with AI: Using Ollama and n8n](https://ghostbyt3.github.io/blog/nday-research-ai)
+
+> Update: The entire tool has been migrated from an n8n-based LLM orchestration workflow to a direct LLM integration due to some constraints encountered with n8n.
 
 ---
 
